@@ -1,7 +1,7 @@
 ## Script Bucin
 
 ```
-Rela NgeBucin Demi dapetin kamu 🥴
+Rela NgeBucin Demi dapetin kamu, tapi kamu nya malah sama yang lain 🥴
 ```
 ### Deploy dengan Github Pages
 1. Fork Repo ini
